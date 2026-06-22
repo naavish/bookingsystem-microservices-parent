@@ -1,0 +1,6 @@
+[submodule "booking-service"]
+	path = booking-service
+	url = https://github.com/naavish/BookingService.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = https://github.com/naavish/inventoryservice.git
