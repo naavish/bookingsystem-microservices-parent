@@ -4,3 +4,6 @@
 [submodule "inventory-service"]
 	path = inventory-service
 	url = https://github.com/naavish/inventoryservice.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/naavish/orderservice.git
